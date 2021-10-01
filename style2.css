@@ -93,10 +93,10 @@ anni {
     font-size: 1.8rem;
     display: block;
 }
-.huuphung {
+.hongnhung {
     float: left;
 }
-.ai-do {
+.haidang {
     float: right;
 }
 .huuphung h1, .ai-do h1 {
@@ -104,18 +104,18 @@ anni {
     font-size: 1.2rem;
     font-family: 'Dancing Script', cursive;
 }
-.huuphung p, .ai-do p {text-align: center;}
-.huuphung .name {
+.hongnhung p, .haidang p {text-align: center;}
+.hongnhung .name {
     color: #fff;
     font-size: 1.8rem;
     text-shadow: #2b31ff 0px 0px 2px, #2b31ff 0px 0px 7px, #2b31ff 0px 0px 12px, #2b31ff 0px 0px 17px, #2b31ff 0px 0px 7px, #2b31ff 0px 0px 7px, #2b31ff 0px 0px 7px, #2b31ff 0px 0px 7px;
 }
-.ai-do .name {
+.haidang .name {
     color: #fff;
     font-size: 1.8rem;
     text-shadow: #fb00ff 0px 0px 2px, #fb00ff 0px 0px 7px, #fb00ff 0px 0px 12px, #fb00ff 0px 0px 17px, #fb00ff 0px 0px 7px, #fb00ff 0px 0px 7px, #fb00ff 0px 0px 7px, #fb00ff 0px 0px 7px;
 }
-.huuphung .namen, .ai-do .namen {color: #fff;margin-top: -1rem;}
+.hongnhung .namen, .haidang .namen {color: #fff;margin-top: -1rem;}
 .clearfix::after {
     content: "";
     clear: both;
