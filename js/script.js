@@ -1,5 +1,5 @@
 // Đếm ngày yêu, bạn cần sửa dòng đầu tiên có số này 2021-08-08
-const yourDate = new Date("2022-07-23T00:00:00"),
+const yourDate = new Date("2023-11-13T00:00:00"),
 // Sửa tên bài hát bạn cần thay đổi trong thư mục music, không dấu, không khoảng trắng nha
 music = ['lamvoanhnhe'];
 
